@@ -5,7 +5,7 @@ This React application is designed for creating, selecting, and displaying notes
 
 ## Usage
 1. Install dependencies: `npm install`
-2. Run the application: `npm start`
+2. Run the application: `npm run dev`
 
 Feel free to reach out for any further clarification or assistance.
 
